@@ -1,0 +1,11 @@
+.card {
+  width: 12rem;
+}
+.svg {
+  fill: currentColor;
+}
+@media only screen and (max-width: 400px) {
+  .card {
+    width: 8rem;
+  }
+}
